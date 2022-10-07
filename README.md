@@ -1,7 +1,7 @@
 - 👋 Hi, I am Usman Tariq.
 - 👀 I’m interested in designing deep learning architectures for learning multimodal similarity in bioinformatics, image/caption matching, and fMRI data.
-- 🌱 I’m currently learning to implement and customize attention networks for domain specific requirement e.g. for hypersparse extremely large vectors.
-- 💞️ I’m looking to collaborate on any project related to solving challenging problems using ML/DL.
+- 🌱 I’m currently learning to implement and customize attention networks for domain specific requirement e.g. for extremely large hypersparse vectors.
+- 💞️ I’m looking for full-time positions machine learning and AI.
 - 📫 You can reach me at mtari008@fiu.edu
 
 <!---
